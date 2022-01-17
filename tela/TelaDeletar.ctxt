@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=TelaDeletar
+comment1.params=lista
+comment1.target=void\ deletar(java.util.List)
+numComments=2

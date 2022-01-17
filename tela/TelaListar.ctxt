@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=TelaListar
+comment1.params=lista
+comment1.target=void\ listarCadastros(java.util.List)
+numComments=2
